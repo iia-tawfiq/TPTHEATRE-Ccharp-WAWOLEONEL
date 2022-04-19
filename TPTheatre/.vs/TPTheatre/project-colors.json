@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "38d25e9e-875b-4c22-a46b-1387b510dad9": {
+      "ProjectGuid": "38d25e9e-875b-4c22-a46b-1387b510dad9",
+      "DisplayName": "TPTheatre",
+      "ColorIndex": 0
+    },
+    "1b4ca161-21d8-4ab3-bbdb-4e844c4c1af5": {
+      "ProjectGuid": "1b4ca161-21d8-4ab3-bbdb-4e844c4c1af5",
+      "DisplayName": "DbLibTheatre",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
